@@ -48,5 +48,5 @@ int main()
     cout<<"\nCount/n: "<<((float)s.count/s.n);
     cout<<"\nCount/n^2: "<<((float)s.count/(s.n*s.n));
     cout<<"\nCount/n^3: "<<((float)s.count/(s.n*s.n*s.n));
-����return�0;
+    return 0;
 }
